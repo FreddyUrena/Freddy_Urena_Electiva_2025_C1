@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "enclosure/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Aislador_USB.step",
       "svg": "",
       "vrml": ""
     },
